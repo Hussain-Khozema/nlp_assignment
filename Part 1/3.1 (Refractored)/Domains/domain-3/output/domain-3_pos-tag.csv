@@ -1,0 +1,31 @@
+Word,POS-tag,Sentence
+Instead,RB,Instead you would use the StringBuilder classes provided.
+you,PRP,Instead you would use the StringBuilder classes provided.
+would,MD,Instead you would use the StringBuilder classes provided.
+use,VB,Instead you would use the StringBuilder classes provided.
+the,DT,Instead you would use the StringBuilder classes provided.
+StringBuilder,NNP,Instead you would use the StringBuilder classes provided.
+classes,NNS,Instead you would use the StringBuilder classes provided.
+provided,VBD,Instead you would use the StringBuilder classes provided.
+.,.,Instead you would use the StringBuilder classes provided.
+rev,NN,rev 2020.10.19.37839
+2020.10.19.37839,CD,rev 2020.10.19.37839
+Do,NNP,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+not,RB,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+print,VB,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+for,IN,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+the,DT,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+first,JJ,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+time,NN,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+during,IN,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+your,PRP$,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+timing,NN,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+phase,NN,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+",",",","Do not print for the first time during your timing phase, since printing loads and initializes classes."
+since,IN,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+printing,VBG,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+loads,NNS,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+and,CC,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+initializes,JJ,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+classes,NNS,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
+.,.,"Do not print for the first time during your timing phase, since printing loads and initializes classes."
